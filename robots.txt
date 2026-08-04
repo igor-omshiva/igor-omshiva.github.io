@@ -1,0 +1,7 @@
+# Este arquivo vale apenas em https://igor-omshiva.github.io/robots.txt
+# Se o site estiver numa subpasta, junte estas linhas ao robots.txt da raiz.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://igor-omshiva.github.io/sitemap.xml
